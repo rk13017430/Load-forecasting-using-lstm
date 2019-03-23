@@ -1,6 +1,6 @@
 # lstm-electric-load-forecast
 The task is to predict values for a timeseries of the history of over two million minutes of the power consumption of a household. The dataset can be found in the data folder as a .rar file which must be unzipped or alternatively in:
-https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption#
+
 
 After downloading the data make sure the file is stored in the data folder.
 
